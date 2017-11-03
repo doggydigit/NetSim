@@ -1,0 +1,43 @@
+Node: 1 Neuron: 0 Poential: -55.4736
+Node: 1 Neuron: 1 Poential: -62.6917
+Node: 1 Neuron: 2 Poential: -32.7101
+Node: 1 Neuron: 3 Poential: -44.3519
+Node: 1 Neuron: 4 Poential: -64.5986
+Node: 1 Neuron: 5 Poential: -49.9832
+Node: 1 Neuron: 6 Poential: -58.5932
+Node: 1 Neuron: 7 Poential: -62.8303
+Node: 1 Neuron: 8 Poential: -59.119
+Node: 1 Neuron: 9 Poential: -31.922
+Node: 1 Neuron: 10 Poential: -50.8275
+Node: 1 Neuron: 11 Poential: -43.7203
+Node: 1 Neuron: 12 Poential: -48.81
+Node: 1 Neuron: 13 Poential: -62.7371
+Node: 1 Neuron: 14 Poential: -46.2399
+Node: 1 Neuron: 15 Poential: -60
+Node: 1 Neuron: 16 Poential: -64.5223
+Node: 1 Neuron: 17 Poential: -54.9226
+Node: 1 Neuron: 18 Poential: -64.6762
+Node: 1 Neuron: 19 Poential: -62.8303
+Node: 1 Neuron: 20 Poential: -52.1806
+Node: 1 Neuron: 21 Poential: -39.7726
+Node: 1 Neuron: 22 Poential: -53.9665
+Node: 1 Neuron: 23 Poential: -64.917
+Node: 1 Neuron: 24 Poential: -55.6605
+Node: 1 Neuron: 25 Poential: -63.8254
+Node: 1 Neuron: 26 Poential: -61.894
+Node: 1 Neuron: 27 Poential: -53.7898
+Node: 1 Neuron: 28 Poential: -57.3672
+Node: 1 Neuron: 29 Poential: -60
+Node: 1 Neuron: 30 Poential: -50.1381
+Node: 1 Neuron: 31 Poential: -47.7891
+Node: 1 Neuron: 32 Poential: -40.1869
+Node: 1 Neuron: 33 Poential: -46.1149
+Node: 1 Neuron: 34 Poential: -63.7619
+Node: 1 Neuron: 35 Poential: -60
+Node: 1 Neuron: 36 Poential: -60.4061
+Node: 1 Neuron: 37 Poential: -60
+Node: 1 Neuron: 38 Poential: -64.0902
+Node: 1 Neuron: 39 Poential: -50.4432
+Total count of AP for node: 1 was 59253
+was 57643
+243
